@@ -1,8 +1,7 @@
-# Customer-segmentation
-In today’s competitive market, understanding customer behavior is crucial for business success.
+
 
 # Customer Segmentation Pipeline
-
+In today’s competitive market, understanding customer behavior is crucial for business success.
 ## Overview
 - Segment credit-card customers using unsupervised clustering followed by supervised modeling.
 
